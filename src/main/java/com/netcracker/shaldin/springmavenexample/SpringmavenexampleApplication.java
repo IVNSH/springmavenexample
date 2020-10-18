@@ -1,4 +1,4 @@
-package netcracker.springmavenexample;
+package com.netcracker.shaldin.springmavenexample;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
